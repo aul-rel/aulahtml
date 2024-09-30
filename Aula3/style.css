@@ -1,0 +1,17 @@
+body{
+  background-color: lightgray;
+}
+h2{
+  background-color: purple;
+  color: yellow;
+  width:25%;
+}
+p{
+  background-color: blue;
+  color: white;
+}
+span{
+  background-color: red;
+  color: blue;
+}
+
