@@ -1,0 +1,26 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;    
+}
+
+h1, h2{
+    color: blue
+}
+
+#container p{
+    color: blue;
+}
+
+#container{
+    background-color: hsl(120, 100%, 100%);
+}
+
+p{
+    background-color: hsla(120, 100%, 75%, 0.5);
+}
+
+p:hover{
+    background-color: hsl(120, 100%, 20%);
+}
+
+
